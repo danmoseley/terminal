@@ -138,4 +138,10 @@
         </alwaysEnabledBrandingTokens>
     </feature>
 
+    <feature>
+        <name>Feature_UnicodeTextSegmentation</name>
+        <description>Enables support for UAX #29 via libicu.</description>
+        <stage>AlwaysEnabled</stage>
+    </feature>
+
 </featureStaging>
